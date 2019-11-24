@@ -30,6 +30,7 @@ fi
   --enable-static \
   --enable-small \
   --enable-x86asm \
+  --enable-libvpx \
   --x86asmexe=yasm \
   --enable-zlib \
   --extra-cflags=-D_SYSCRT \
